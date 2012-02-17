@@ -1,0 +1,6 @@
+* translation
+
+** [[DbusPythonTutorial]]
+** [[PlymouthThemes]]
+** [[CustomizeUbuntuBootScreen]]
+** [[HowToChangeBootResolution]]

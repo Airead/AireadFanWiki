@@ -1,0 +1,110 @@
+DT.contents {
+    padding-left: 30px;
+    padding-top: 1em;
+    font-size: 14px;
+    FONT-WEIGHT: bold;
+}
+
+
+A {
+    font-weight: bold;
+    color: #c00;
+    TEXT-DECORATION: none;
+}
+A:hover {
+    BACKGROUND: #fff;
+    BORDER: #c00  1px dashed;
+    TEXT-DECORATION: UNDERLINE OVERLINE; 
+    COLOR: #c00; 
+    background: #ffe7e7;
+    color: blue;
+}
+
+H1{
+    margin-top: 0px; 
+    padding: 22px 0px 16px 60px;
+    FONT-WEIGHT: bolder;
+    COLOR: #004f37;
+    Border-bottom: #004f37 2px solid;
+    Border-left-width: 6px;
+    BACKGROUND: #d9e7e2;
+    font-size: 40px;
+    background: #d9e7e2 url(http://img1.51cto.com/attachment/201202/181344167.png) repeat-x;
+    line-height: 1;  
+}
+
+H2 {
+    FONT-WEIGHT: BOLD;
+    COLOR: #005a9c;
+    BORDER: #005a9c 1px solid; 
+    BORDER-LEFT: #005a9c 6px solid; 
+    BACKGROUND: #c4d9ef; 
+    margin-top: 50pt;
+    PADDING: 3px 0px 3px 10px; 
+    background-image: url(http://img1.51cto.com/attachment/201202/180931604.gif)
+}
+
+H3 {
+    margin-left: 10px;
+    PADDING: 3px 0px 3px 10px;
+    COLOR: #2b804c;
+    margin-top: 30pt;
+    FONT-WEIGHT: BOLD;
+    BORDER-bottom: #2b804c 1px solid; 
+    BORDER-LEFT: #2b804c 6px solid;
+    BACKGROUND: #d9eae0;
+    background-image: url(http://img1.51cto.com/attachment/201202/180931522.gif);
+}
+
+PRE {
+}
+PRE.example {
+    padding-left: 40px;
+    PADDING: 0.5em 0em 0.5em 1em;
+    BACKGROUND: #c4e6f0;
+    color: #3c5e08;
+    BORDER: #ccaa00 1px solid;
+    PADDING: 0.5em 0.5em 0.5em 1em;
+    background-image: url(http://img1.51cto.com/attachment/201202/181332794.gif);
+
+}
+
+PRE.verse {
+    COLOR: #284d6a;
+    BORDER: #95dcef 1px dashed;
+    padding-left: 40px;
+    PADDING: 0.5em 0em 0.5em 1em;
+    BACKGROUND: #c4e6f0;
+    background-image: url(http://img1.51cto.com/attachment/201202/181332794.gif);
+}
+
+P {
+    padding-LEFT: 40px;
+}
+
+P.verse {
+    COLOR: #284d6a;
+    BORDER: #95dcef 1px dashed;
+    padding-left: 40px;
+    PADDING: 0.5em 0em 0.5em 1em;
+    BACKGROUND: #c4e6f0;
+    background-image: url(http://img1.51cto.com/attachment/201202/181332794.gif);
+}
+
+ul {
+    margin-left: 40px;
+}
+
+ol {
+    margin-left: 40px;
+}
+
+hr {
+    border-style: dashed;
+    border-color: #ccc;
+}
+
+
+em {
+    color: #000066;
+}
