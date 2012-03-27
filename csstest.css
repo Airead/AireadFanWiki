@@ -82,6 +82,10 @@ P {
     padding-LEFT: 40px;
 }
 
+P.first {
+    padding-LEFT: 40px;
+}
+
 P.verse {
     COLOR: #284d6a;
     BORDER: #95dcef 1px dashed;
