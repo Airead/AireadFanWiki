@@ -6,3 +6,6 @@
 ** [[HowToChangeBootResolution]]
 ** [[InterviewStreet]]
 ** [[CmockeryDetailed]]
+** [[DbusDataTypeSimple2Complex1]]
+** [[DbusDataTypeSimple2Complex2]]
+** [[DbusDataTypeSimple2Complex3]]
